@@ -5,6 +5,7 @@ con elementos aleatorios de números enteros del 0 al 100.
 import numpy as np
 import random
 
+print("Bienvenidos a la bi-dimensión")
 matriz = np.diag([1,1,1])
 print(matriz)
 
